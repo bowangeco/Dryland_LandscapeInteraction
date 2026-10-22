@@ -20,7 +20,7 @@ The datasets contain GeoTIFF raster layers describing landscape interaction stre
 
 ## Analysis Codes
 
-All analysis codes are provided in the `Code_upload` folder. All analyses were conducted using R version 4.1.3.
+All analysis codes are provided in the `Codes` folder. All analyses were conducted using R version 4.1.3 and Python version 3.9.
 
 ## Usage and Citation
 
